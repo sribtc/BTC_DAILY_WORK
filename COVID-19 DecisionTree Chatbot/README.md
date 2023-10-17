@@ -1,5 +1,5 @@
 # Running the code
-  change the path in the terminal to pwd (presnet working directory) and run the code 
+  change the path in terminal to pwd (presnet working directory) and run the code 
   ```
     python covid-19-chatbot.py
   ```
